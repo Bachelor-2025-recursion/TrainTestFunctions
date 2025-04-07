@@ -11,5 +11,4 @@ public class Echo {
 
         return s + " " + echo(s.substring(0, s.length() - 1));
     }
-
 }
