@@ -1,7 +1,7 @@
 public class Echo {
     
     public static void main(String[] args) {
-        System.out.println(echo("hello"));
+        System.out.println(echo("echo"));
     }
 
     static String echo(String s) {
